@@ -48,7 +48,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone [https://github.com/your-username/eye-strain-detection.git](https://github.com/Shehansg/AI-Driven-Digital-Eye-Strain-Detection.git)
+git clone https://github.com/Shehansg/AI-Driven-Digital-Eye-Strain-Detection.git
 cd eye-strain-detection
 Install dependencies:
 

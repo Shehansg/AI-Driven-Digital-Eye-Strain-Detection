@@ -14,13 +14,13 @@ feature/: Developers should create feature branches off of development, work on 
 
 ## 🚀 Features
 
-Real-Time Symptom Detection: Detect eye redness, reduced blink rate, and drowsiness using mobile cameras.
+Real-Time Symptom Detection: Detect eye redness, conjunctiva, cataract, uveitis and drowsiness using mobile cameras.
 
 Personalized Break Recommendations: Offer customized breaks based on real-time symptoms and user feedback.
 
 Multi-Platform Support: Built with React Native to run seamlessly on both Android and iOS devices.
 
-Advanced AI Models: Incorporates YOLO for object detection, CNNs for feature extraction, and TensorFlow/Keras for personalized analysis.
+Advanced AI Models: Incorporates YOLO for object detection, CNNs for feature extraction, and TensorFlow/Keras, Vision Transformer for personalized analysis.
 
 Gamification and Engagement: Includes wellness streaks and motivational features to encourage healthy digital device habits.
 
@@ -79,6 +79,4 @@ Make your changes.
 
 Submit a pull request with a clear description and screenshots if applicable.
 
-## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.

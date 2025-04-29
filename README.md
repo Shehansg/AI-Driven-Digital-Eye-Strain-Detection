@@ -1,6 +1,6 @@
 # 👁️ AI-Driven Digital Eye Strain Detection
 
-AI-Driven Digital Eye Strain Detection is a mobile-based solution developed to detect symptoms of Digital Eye Strain (DES) such as dry eyes, redness, and drowsiness using advanced computer vision and machine learning technologies. The system provides real-time analysis and personalized break recommendations to promote healthier digital habits. Built with React Native, YOLO, TensorFlow, and OpenCV, this project represents an innovative step toward enhancing user well-being during prolonged digital device usage.
+AI-Driven Digital Eye Strain Detection is a mobile-based solution developed to detect symptoms of Digital Eye Strain (DES) such as  redness, conjunctiva, cataract, uveitis and drowsiness using advanced computer vision and machine learning technologies. The system provides real-time analysis and personalized break recommendations to promote healthier digital habits. Built with React Native, YOLO and TensorFlow this project represents an innovative step toward enhancing user well-being during prolonged digital device usage.
 
 ## 📂 Project Structure
 

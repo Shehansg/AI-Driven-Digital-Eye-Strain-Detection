@@ -52,22 +52,10 @@ git clone https://github.com/Shehansg/AI-Driven-Digital-Eye-Strain-Detection.git
 cd eye-strain-detection
 Install dependencies:
 
-bash
-Copy
-Edit
-npm install
-Run the app locally:
+File > Sync Project with Gradle Files
 
-bash
-Copy
-Edit
-npx expo start
-Create a feature branch:
-
-bash
-Copy
-Edit
 git checkout -b feature/your-feature-name
+
 
 ## 🧑‍💻 Contributing
 

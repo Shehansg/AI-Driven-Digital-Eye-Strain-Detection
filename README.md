@@ -50,9 +50,22 @@ Copy
 Edit
 git clone https://github.com/Shehansg/AI-Driven-Digital-Eye-Strain-Detection.git
 cd eye-strain-detection
+
+Open the project in Android Studio:
+Open Android Studio.
+
+Click on "Open" and navigate to the cloned project folder.
+
+Select the folder and click OK.
+
 Install dependencies:
 
 File > Sync Project with Gradle Files
+
+Run the app:
+Connect an Android device or start an emulator.
+
+Click the Run ▶️ button in Android Studio.
 
 git checkout -b feature/your-feature-name
 
